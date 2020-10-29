@@ -1,0 +1,14 @@
+{
+  "name": "bookroll pdf download",
+  "version": "0.1",
+  "author":"Alan Li",
+  "description": "bookroll pdf download",
+  "permissions": [],
+  "content_scripts": [
+    {
+        "matches": ["*://*.bookroll.org.tw/home/index*"],
+        "js": ["js/content_script.js"]
+    }
+],
+  "manifest_version": 2
+  }
