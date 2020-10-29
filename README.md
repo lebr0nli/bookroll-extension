@@ -6,13 +6,21 @@
 
 所以就用寫了一個Chrome Extension，新增下載pdf的button到任何一個教材，未來即可離線使用更方便的工具來查看或編輯教材(acrobat pro、goodnote etc.)，一勞永逸。
 
-同場加映[批量下載pdf with python](https://github.com/lebr0nli/bookroll_pdf_downloader)
+同場加映:
+
+[批量下載pdf with python](https://github.com/lebr0nli/bookroll_pdf_downloader)
 
 
 # Screenshot
 
-![1](not_yet)
+* Before
 
+![1](https://raw.githubusercontent.com/lebr0nli/bookroll-extension/main/sample/before.png)
+
+* After
+
+![2](https://raw.githubusercontent.com/lebr0nli/bookroll-extension/main/sample/after.png)
+![2](https://raw.githubusercontent.com/lebr0nli/bookroll-extension/main/sample/after1.png)
 
 # Usage
 
