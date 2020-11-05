@@ -25,7 +25,21 @@
 # Usage
 
 
-擴充功能->開發人員選項->載入未封裝套件->選擇"bookroll-pdf-extension"資料夾
+1. Download bookroll-extension-main.zip then unzip
+
+or use
+
+		git clone https://github.com/lebr0nli/bookroll-extension.git
+
+2. Open chrome://extensions in a new tab.
+
+3. Enable "Developer mode" at the top-right.
+
+4. Click the "Load unpacked" button that just appeared.
+
+5. Select the folder **bookroll-pdf-extension** in **bookroll-extension-main** or **bookroll-extension**
+
+6. Enjoy!
 
 
 # 注意
