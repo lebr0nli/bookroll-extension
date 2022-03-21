@@ -25,11 +25,13 @@
 # Usage
 
 
-1. Download bookroll-extension-main.zip then unzip
+1. Download [bookroll-extension-main.zip](https://github.com/lebr0nli/bookroll-extension/archive/refs/heads/main.zip) then unzip
 
 or use
 
-		git clone https://github.com/lebr0nli/bookroll-extension.git
+```bash
+git clone https://github.com/lebr0nli/bookroll-extension.git
+```
 
 2. Open chrome://extensions in a new tab.
 
